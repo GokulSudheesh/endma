@@ -189,7 +189,7 @@ for(i = 0, logical_expression, i++):<br>
 
 ### Loop through an array
 ```
-set Array[] as [1,2,3,4] ::int
+set Array as [1,2,3,4] ::int
 for element in Array:
     /*
     body
